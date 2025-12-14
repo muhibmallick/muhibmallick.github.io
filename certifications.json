@@ -1,0 +1,46 @@
+{
+  "certifications": [
+    {
+      "title": "Flutter Development Bootcamp",
+      "issuer": "Udemy",
+      "year": ""
+    },
+    {
+      "title": "Unity Hyper Casual Cricket Game",
+      "issuer": "Udemy",
+      "year": ""
+    },
+    {
+      "title": "Linux Essentials",
+      "issuer": "Cisco Networking Academy",
+      "year": ""
+    },
+    {
+      "title": "Networking Fundamentals",
+      "issuer": "Cisco Networking Academy",
+      "year": ""
+    },
+    {
+      "title": "IBM Cloud Pak for Business Automation",
+      "issuer": "IBM",
+      "year": ""
+    },
+    {
+      "title": "Db2 Technical Sales (Intermediate)",
+      "issuer": "IBM",
+      "year": ""
+    },
+    {
+      "title": "Robotic Process Automation (Intermediate)",
+      "issuer": "IBM",
+      "year": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Quarterly Emerging Team Player Award",
+      "issuer": "Organization / Employer",
+      "year": ""
+    }
+  ]
+}

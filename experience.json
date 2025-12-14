@@ -1,0 +1,50 @@
+[
+  {
+    "icon": "desktop",
+    "logo": "assets/arcana.png",
+    "company": "ArcanaInfo, Karachi",
+    "duration": "19 August 2024 - Present",
+    "position": "IBM BPM Specialist",
+    "description": [
+      "Developed and delivered enterprise-grade IBM BPM / BAW solutions in the banking domain.",
+      "Designed BPMN workflows and integrated external systems using SOAP and REST APIs.",
+      "Built dynamic UIs using Coaches and Coach Views and optimized workflows to meet SLAs and KPIs."
+    ]
+  },
+  {
+    "icon": "briefcase",
+    "logo": "assets/shiftGlobal.png",
+    "company": "Shift Global, Karachi",
+    "duration": "Dec 2023 - Present",
+    "position": "Software Development Engineer",
+    "description": [
+      "Automated Google Sheets workflows using Google Apps Script for financial data processing.",
+      "Developed cross-platform mobile applications using Flutter.",
+      "Built Unity-based WebGL games and internal automation tools."
+    ]
+  },
+  {
+    "icon": "gamepad",
+    "logo": "assets/Airidev.png",
+    "company": "AIRIDEV Islamabad, Karachi Remote",
+    "duration": "Aug 2023 - Oct 2023",
+    "position": "Game Development Engineer",
+    "description": [
+      "Designed and implemented core gameplay mechanics using Unity (C#).",
+      "Optimized game performance to reduce load times and improve UX.",
+      "Integrated Firebase Analytics and multiplayer features using networking + realtime DB."
+    ]
+  },
+  {
+    "icon": "server",
+    "logo": "assets/digitechinfra.png",
+    "company": "Digitech Infra, Karachi",
+    "duration": "Sep 2022 - Aug 2023",
+    "position": "Software Development Engineer",
+    "description": [
+      "Developed and maintained cross-platform mobile apps using Flutter (Android/iOS).",
+      "Implemented scalable state management using Provider, GetX, and Riverpod.",
+      "Integrated REST APIs and contributed to Bachat Mart, car pooling apps, TikTok-style feed cloning, and websites."
+    ]
+  }
+]

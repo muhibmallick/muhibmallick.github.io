@@ -1,0 +1,113 @@
+{
+  "cvUrl": "https://drive.google.com/file/d/1fwsrPYe4fSkqL7Kk8omsE8pnLE5w5_DK/view?usp=sharing",
+  "categories": [
+
+    {
+      "id": "bpm",
+      "title": "IBM BPM / BAW",
+      "subtitle": "Enterprise workflows, integrations",
+      "coverImage": "assets/Images/Covers/IBM-BPM.jpg",
+      "projects": [
+        {
+          "title": "Remittance Account Opening Process",
+          "image": "assets/Images/Covers/IBM-BPM.jpg",
+          "video": ""
+        },
+        {
+          "title": "Paperless Account Opening Process",
+          "image": "assets/Images/Covers/IBM-BPM.jpg",
+          "video": ""
+        },
+        {
+          "title": "Automation of Inward Process",
+          "image": "assets/Images/Covers/IBM-BPM.jpg",
+          "video": ""
+        },
+        {
+          "title": "Cashier Cheque Issuance Process",
+          "image": "assets/Images/Covers/IBM-BPM.jpg",
+          "video": ""
+        },
+        {
+          "title": "Network Access Form Request",
+          "image": "assets/Images/Covers/IBM-BPM.jpg",
+          "video": ""
+        },
+        {
+          "title": "Branch Management System (BMS) Enhancements",
+          "image": "assets/Images/Covers/IBM-BPM.jpg",
+          "video": ""
+        },
+        {
+          "title": "Regional Office Head (ROH)",
+          "image": "assets/Images/Covers/IBM-BPM.jpg",
+          "video": ""
+        }
+      ]
+    },
+
+    {
+      "id": "flutter",
+      "title": "Flutter Projects",
+      "subtitle": "Mobile/Web apps, Firebase, REST APIs",
+      "coverImage": "assets/Images/Covers/Google-flutter.png",
+      "projects": [
+        {
+          "title": "TikTok Clone",
+          "image": "assets/Images/Flutter/TIKTOK_CLONE.png",
+          "video": "https://firebasestorage.googleapis.com/v0/b/portfolio-fe8c4.appspot.com/o/Flutter%2Fvideos%2FTiktokClone.mp4?alt=media&token=6d73dfbc-4446-456f-95f3-efdebd5207fe"
+        },
+        {
+          "title": "Car Pooling",
+          "image": "assets/Images/Flutter/CAR_POOLING.png",
+          "video": "https://firebasestorage.googleapis.com/v0/b/portfolio-fe8c4.appspot.com/o/Flutter%2Fvideos%2FCar%20Pooling.mp4?alt=media&token=35e02e8b-3469-469e-a7c6-34447f2410ec"
+        },
+        {
+          "title": "Food Mart",
+          "image": "assets/Images/Flutter/FOOD_MART.png",
+          "video": "https://firebasestorage.googleapis.com/v0/b/portfolio-fe8c4.appspot.com/o/Flutter%2Fvideos%2FFood_Mart.mp4?alt=media&token=8afb8443-05b8-4c9f-acd0-d546bc7802e4"
+        },
+        {
+          "title": "Chill Chase",
+          "image": "assets/Images/Flutter/CHILLCHASE.png",
+          "video": "https://firebasestorage.googleapis.com/v0/b/portfolio-fe8c4.appspot.com/o/Flutter%2Fvideos%2FCHILLCHASE.mp4?alt=media&token=cec951c9-9b5a-4b64-b74c-3a098a47649c"
+        },
+        {
+          "title": "Bachat Mart",
+          "image": "assets/Images/Flutter/BACHAT_MART.png",
+          "video": ""
+        }
+      ]
+    },
+
+    {
+      "id": "unity",
+      "title": "Unity Games",
+      "subtitle": "Arcade games + gameplay demos",
+      "coverImage": "assets/Images/Covers/unity.png",
+      "projects": [
+        {
+          "title": "PacMan",
+          "image": "assets/Images/Unity/unity_project1.png",
+          "video": "https://firebasestorage.googleapis.com/v0/b/portfolio-fe8c4.appspot.com/o/Unity%2Fvideos%2FPacMan.mp4?alt=media&token=c0c31035-0cba-4802-b1ae-3404cd6a124b"
+        },
+        {
+          "title": "Car Rush",
+          "image": "assets/Images/Unity/unity_project2.png",
+          "video": "https://firebasestorage.googleapis.com/v0/b/portfolio-fe8c4.appspot.com/o/Unity%2Fvideos%2Fcar_rush.mp4?alt=media&token=9c67b8cf-0c1c-4b73-894f-67b87be5efe1"
+        },
+        {
+          "title": "Flappy Bird",
+          "image": "assets/Images/Unity/unity_project3.png",
+          "video": "https://firebasestorage.googleapis.com/v0/b/portfolio-fe8c4.appspot.com/o/Unity%2Fvideos%2Fflappy_bird.mp4?alt=media&token=b757cf44-1f1d-4ea9-b8ab-d7af7e470535"
+        },
+        {
+          "title": "Snake Game",
+          "image": "assets/Images/Unity/unity_project4.png",
+          "video": "https://firebasestorage.googleapis.com/v0/b/portfolio-fe8c4.appspot.com/o/Unity%2Fvideos%2Fsnake_game.mp4?alt=media&token=d5faf4a7-5535-483d-94ff-1c3989015a03"
+        }
+      ]
+    }
+
+  ]
+}
