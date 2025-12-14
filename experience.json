@@ -3,48 +3,48 @@
     "icon": "desktop",
     "logo": "assets/arcana.png",
     "company": "ArcanaInfo, Karachi",
-    "duration": "19 August 2024 - Present",
-    "position": "IBM BPM Specialist",
+    "duration": "Jan 2024 – Present",
+    "position": "Enterprise Automation Engineer (IBM BPM / BAW)",
     "description": [
-      "Developed and delivered enterprise-grade IBM BPM / BAW solutions in the banking domain.",
-      "Designed BPMN workflows and integrated external systems using SOAP and REST APIs.",
-      "Built dynamic UIs using Coaches and Coach Views and optimized workflows to meet SLAs and KPIs."
+      "Delivered enterprise-grade IBM BPM / BAW solutions in the banking sector, covering the complete implementation lifecycle from BPMN process modeling to production deployment.",
+      "Worked on multiple banking workflow automations including remittance processing, account opening, paperless account opening, inward processing, cashier cheque issuance, network access forms, and Branch Management System (BMS) enhancements.",
+      "Integrated external systems using SOAP and REST APIs, built dynamic user interfaces using Coaches and Coach Views, and optimized workflow performance to meet SLAs and business KPIs."
     ]
   },
   {
     "icon": "briefcase",
     "logo": "assets/shiftGlobal.png",
     "company": "Shift Global, Karachi",
-    "duration": "Dec 2023 - Present",
+    "duration": "Jan 2023 – Jan 2024",
     "position": "Software Development Engineer",
     "description": [
-      "Automated Google Sheets workflows using Google Apps Script for financial data processing.",
-      "Developed cross-platform mobile applications using Flutter.",
-      "Built Unity-based WebGL games and internal automation tools."
+      "Worked on automation and application development initiatives including Google Sheets automation for financial management, with data processing and storage for reporting and analysis.",
+      "Developed Python-based web scraping tools for structured data extraction and integrated Google Sheets with WhatsApp and Discord to deliver automated reminders and notification messages.",
+      "Built cross-platform mobile applications using Flutter and partially developed a Unity-based cricket game, integrating it with an office attendance system to support internal tracking and engagement."
     ]
   },
   {
     "icon": "gamepad",
     "logo": "assets/Airidev.png",
-    "company": "AIRIDEV Islamabad, Karachi Remote",
-    "duration": "Aug 2023 - Oct 2023",
+    "company": "AIRIDEV, Islamabad (Remote)",
+    "duration": "Aug 2023 – Oct 2023",
     "position": "Game Development Engineer",
     "description": [
-      "Designed and implemented core gameplay mechanics using Unity (C#).",
-      "Optimized game performance to reduce load times and improve UX.",
-      "Integrated Firebase Analytics and multiplayer features using networking + realtime DB."
+      "Designed and implemented core gameplay mechanics for multiple mobile games using Unity (C#), including enhancements to classic games such as Pac-Man and Snake.",
+      "Developed a clown-based game featuring a structured leveling system and led performance optimization efforts to reduce load times and improve overall user experience.",
+      "Integrated Firebase Analytics to track player engagement and implemented cross-platform multiplayer functionality using Unity Networking and Firebase Realtime Database."
     ]
   },
   {
     "icon": "server",
     "logo": "assets/digitechinfra.png",
     "company": "Digitech Infra, Karachi",
-    "duration": "Sep 2022 - Aug 2023",
+    "duration": "Sep 2022 – Aug 2023",
     "position": "Software Development Engineer",
     "description": [
-      "Developed and maintained cross-platform mobile apps using Flutter (Android/iOS).",
-      "Implemented scalable state management using Provider, GetX, and Riverpod.",
-      "Integrated REST APIs and contributed to Bachat Mart, car pooling apps, TikTok-style feed cloning, and websites."
+      "Developed and maintained cross-platform mobile applications using Flutter for Android and iOS platforms.",
+      "Implemented scalable state management using Provider, GetX, and Riverpod, and integrated REST APIs for efficient backend communication.",
+      "Contributed to multiple projects including Bachat Mart, car pooling applications, TikTok-style video feed cloning, and website design and development, with a focus on clean UI/UX, performance optimization, and responsive design."
     ]
   }
 ]
